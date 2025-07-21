@@ -254,4 +254,3 @@ Pull requests welcome! Please follow the [contribution guidelines](CONTRIBUTING.
 Distributed under the Apache 2.0 License. See `LICENSE` for more information.
 ```
 
-Remember to tailor your README to your specific project needs while maintaining clarity and completeness.
